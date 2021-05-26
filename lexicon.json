@@ -1,5 +1,11 @@
 [
     {
+        "greek": "͵̅Β̅",
+        "english": [
+            "TWO THOUSAND"
+        ]
+    },
+    {
         "greek": "Α",
         "english": [
             "AND",
@@ -13,6 +19,60 @@
             "WHICH",
             "WHO",
             "WHOM"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ο̅Ι̅",
+        "english": [
+            "MEN"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ο̅Ν̅",
+        "english": [
+            "A MAN",
+            "MAN"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ο̅Σ̅",
+        "english": [
+            "A MAN",
+            "HUMANITY",
+            "MAN",
+            "MEN"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ο̅Υ̅",
+        "english": [
+            "A MAN",
+            "A MAN'S",
+            "MAN"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ο̅Υ̅Σ̅",
+        "english": [
+            "MEN"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ω̅",
+        "english": [
+            "A MAN",
+            "MAN",
+            "TO A MAN"
+        ]
+    },
+    {
+        "greek": "Α̅Ν̅Ω̅Ν̅",
+        "english": [
+            "HUMAN",
+            "MAN",
+            "MANKIND",
+            "MEN",
+            "OF MEN"
         ]
     },
     {
@@ -4663,6 +4723,12 @@
     },
     {
         "greek": "ΑΛΦΑΙΟΥ",
+        "english": [
+            "ALPHAEUS"
+        ]
+    },
+    {
+        "greek": "ΑΛΦΕΟΥ",
         "english": [
             "ALPHAEUS"
         ]
@@ -11794,6 +11860,12 @@
         ]
     },
     {
+        "greek": "ΑΠΟΛΕΣΑΠΟΛΕΣΑΙ",
+        "english": [
+            "TO DESTROY"
+        ]
+    },
+    {
         "greek": "ΑΠΟΛΕΣΑΣ",
         "english": [
             "DESTROYED",
@@ -15899,6 +15971,23 @@
         ]
     },
     {
+        "greek": "ΑΦ",
+        "english": [
+            "AGAINST",
+            "BECAUSE OF",
+            "BEFORE",
+            "BY",
+            "FOR",
+            "FROM",
+            "IN",
+            "OF",
+            "ON",
+            "SINCE",
+            "TO",
+            "WITH"
+        ]
+    },
+    {
         "greek": "ΑΦΑΙΡΕΘΗΣΕΤΑΙ",
         "english": [
             "WILL BE TAKEN AWAY"
@@ -16746,6 +16835,12 @@
         "english": [
             "THEY MAY TOUCH",
             "THEY MIGHT TOUCH"
+        ]
+    },
+    {
+        "greek": "Β̅",
+        "english": [
+            "TWO THOUSAND"
         ]
     },
     {
@@ -19335,6 +19430,13 @@
         ]
     },
     {
+        "greek": "Γ̅",
+        "english": [
+            "THIRD",
+            "THREE"
+        ]
+    },
+    {
         "greek": "ΓΑΒΒΑΘΑ",
         "english": [
             "GABBATHA"
@@ -20799,6 +20901,12 @@
         ]
     },
     {
+        "greek": "ΓΗΣΑΜΑΝΕΙ",
+        "english": [
+            "GETHSEMANE"
+        ]
+    },
+    {
         "greek": "ΓΙΝΕΣΘΑΙ",
         "english": [
             "COME TO PASS",
@@ -22061,6 +22169,35 @@
         "english": [
             "CORNER",
             "CORNERS"
+        ]
+    },
+    {
+        "greek": "Δ",
+        "english": [
+            "AND",
+            "BUT",
+            "HOWEVER",
+            "INDEED",
+            "NOW",
+            "THEREFORE"
+        ]
+    },
+    {
+        "greek": "Δ̅",
+        "english": [
+            "FOUR"
+        ]
+    },
+    {
+        "greek": "Δ̅Α̅Δ̅",
+        "english": [
+            "DAVID"
+        ]
+    },
+    {
+        "greek": "Δ̅Δ̅",
+        "english": [
+            "DAVID"
         ]
     },
     {
@@ -25482,6 +25619,12 @@
         ]
     },
     {
+        "greek": "ΔΙΕΛΕΧΘΗΤΕ",
+        "english": [
+            "WERE YOU DISCUSSING"
+        ]
+    },
+    {
         "greek": "ΔΙΕΛΗΛΥΘΟΤΑ",
         "english": [
             "HAVING PASSED THROUGH"
@@ -28316,6 +28459,34 @@
             "GIVE",
             "GIVES",
             "YOU GIVE"
+        ]
+    },
+    {
+        "greek": "Ε",
+        "english": [
+            "ALONG",
+            "AMIDST",
+            "AMONG",
+            "AS",
+            "AT",
+            "BY",
+            "DURING",
+            "FOR",
+            "IN",
+            "INTO",
+            "ON",
+            "ONE",
+            "TO",
+            "UNTIL",
+            "WHEN",
+            "WITH",
+            "WITHIN"
+        ]
+    },
+    {
+        "greek": "Ε̅",
+        "english": [
+            "FIVE"
         ]
     },
     {
@@ -38478,6 +38649,12 @@
         ]
     },
     {
+        "greek": "ΕΝΠΤΥΣΩΣΙΝ",
+        "english": [
+            "SPIT UPON"
+        ]
+    },
+    {
         "greek": "ΕΝΣΤΗΣΟΝΤΑΙ",
         "english": [
             "WILL COME"
@@ -39536,6 +39713,12 @@
         ]
     },
     {
+        "greek": "ΕΞΕΠΕΜΠΟΝ",
+        "english": [
+            "THEY SEND OUT"
+        ]
+    },
+    {
         "greek": "ΕΞΕΠΕΜΨΑΝ",
         "english": [
             "SENT AWAY"
@@ -39855,6 +40038,12 @@
         "english": [
             "HAS MADE KNOWN",
             "HAS RELATED"
+        ]
+    },
+    {
+        "greek": "ΕΞΗΓΗΣΟΝΤΑΙ",
+        "english": [
+            "THEY SHOULD EXPLAIN"
         ]
     },
     {
@@ -41537,6 +41726,12 @@
         "english": [
             "FELL",
             "FELL UPON"
+        ]
+    },
+    {
+        "greek": "ΕΠΕΠΙΠΤΟ",
+        "english": [
+            "THEY PRESS UPON"
         ]
     },
     {
@@ -45837,6 +46032,13 @@
         "greek": "ΕΣΕΒΑΣΘΗΣΑΝ",
         "english": [
             "WORSHIPED"
+        ]
+    },
+    {
+        "greek": "ΕΣΕΙΓΑ",
+        "english": [
+            "HE WAS SILENT",
+            "WAS SILENT"
         ]
     },
     {
@@ -50199,6 +50401,13 @@
         ]
     },
     {
+        "greek": "Ζ̅",
+        "english": [
+            "SEVEN",
+            "SEVENTH"
+        ]
+    },
+    {
         "greek": "ΖΑΒΟΥΛΩΝ",
         "english": [
             "ZEBULUN"
@@ -50245,6 +50454,12 @@
         "english": [
             "ZACHARIAS",
             "ZECHARIAH"
+        ]
+    },
+    {
+        "greek": "ΖΕΒΑΙΔΕΟΝ",
+        "english": [
+            "ZEBEDEE"
         ]
     },
     {
@@ -51041,6 +51256,14 @@
         "greek": "ΖΩΣΙ",
         "english": [
             "THEY MIGHT LIVE"
+        ]
+    },
+    {
+        "greek": "ΖΩΣΙΛΙΑΝ",
+        "english": [
+            "A KINGDOM",
+            "KINGDOM",
+            "KINGSHIP"
         ]
     },
     {
@@ -53548,6 +53771,12 @@
         ]
     },
     {
+        "greek": "ΗΤΙΜΩΜΕΝΟ",
+        "english": [
+            "TREATED SHAMEFULLY"
+        ]
+    },
+    {
         "greek": "ΗΤΙΣ",
         "english": [
             "WHICH",
@@ -53799,6 +54028,34 @@
             "HE TOUCHED HIM",
             "SHE TOUCHED",
             "TOUCHED"
+        ]
+    },
+    {
+        "greek": "Θ̅Ν̅",
+        "english": [
+            "A GOD",
+            "GOD",
+            "GODDESS"
+        ]
+    },
+    {
+        "greek": "Θ̅Σ̅",
+        "english": [
+            "GOD"
+        ]
+    },
+    {
+        "greek": "Θ̅Υ̅",
+        "english": [
+            "A GOD",
+            "GOD",
+            "GOD'S"
+        ]
+    },
+    {
+        "greek": "Θ̅Ω̅",
+        "english": [
+            "GOD"
         ]
     },
     {
@@ -54845,6 +55102,18 @@
         ]
     },
     {
+        "greek": "ΘΕΡΜΕΝΟΜΕΝΟΝ",
+        "english": [
+            "WARMING HIMSELF"
+        ]
+    },
+    {
+        "greek": "ΘΕΡΜΕΝΟΜΕΝΟΣ",
+        "english": [
+            "WARMING HIMSELF"
+        ]
+    },
+    {
         "greek": "ΘΕΡΜΗΣ",
         "english": [
             "HEAT"
@@ -55056,6 +55325,13 @@
         "greek": "ΘΗΚΗΝ",
         "english": [
             "SHEATH"
+        ]
+    },
+    {
+        "greek": "ΘΗΛΑΖΟΜΕΝΑΙΣ",
+        "english": [
+            "NURSING",
+            "NURSING INFANTS"
         ]
     },
     {
@@ -55731,6 +56007,12 @@
         ]
     },
     {
+        "greek": "ΘΥΡΟΥΡΩ",
+        "english": [
+            "DOORKEEPER"
+        ]
+    },
+    {
         "greek": "ΘΥΡΩΝ",
         "english": [
             "DOORS"
@@ -55871,6 +56153,68 @@
         "greek": "ΘΩΡΑΚΑΣ",
         "english": [
             "BREASTPLATES"
+        ]
+    },
+    {
+        "greek": "Ι̅Β̅",
+        "english": [
+            "TWELVE"
+        ]
+    },
+    {
+        "greek": "Ι̅Η̅",
+        "english": [
+            "JESUS"
+        ]
+    },
+    {
+        "greek": "Ι̅Η̅Λ̅",
+        "english": [
+            "ISRAEL"
+        ]
+    },
+    {
+        "greek": "Ι̅Η̅Ν̅",
+        "english": [
+            "JESUS"
+        ]
+    },
+    {
+        "greek": "Ι̅Η̅Σ̅",
+        "english": [
+            "JESUS"
+        ]
+    },
+    {
+        "greek": "Ι̅Η̅Υ̅",
+        "english": [
+            "JESUS",
+            "JOSHUA"
+        ]
+    },
+    {
+        "greek": "Ι̅Λ̅Η̅Μ̅",
+        "english": [
+            "JERUSALEM"
+        ]
+    },
+    {
+        "greek": "Ι̅Ν̅",
+        "english": [
+            "JESUS"
+        ]
+    },
+    {
+        "greek": "Ι̅Σ̅",
+        "english": [
+            "JESUS"
+        ]
+    },
+    {
+        "greek": "Ι̅Υ̅",
+        "english": [
+            "JESUS",
+            "JOSHUA"
         ]
     },
     {
@@ -57732,6 +58076,38 @@
         ]
     },
     {
+        "greek": "Κ̅Ε̅",
+        "english": [
+            "LORD",
+            "O LORD"
+        ]
+    },
+    {
+        "greek": "Κ̅Ν̅",
+        "english": [
+            "LORD"
+        ]
+    },
+    {
+        "greek": "Κ̅Σ̅",
+        "english": [
+            "LORD"
+        ]
+    },
+    {
+        "greek": "Κ̅Υ̅",
+        "english": [
+            "LORD",
+            "LORD'S"
+        ]
+    },
+    {
+        "greek": "Κ̅Ω̅",
+        "english": [
+            "LORD"
+        ]
+    },
+    {
         "greek": "ΚΑ",
         "english": [
             "AGAINST"
@@ -59438,6 +59814,12 @@
         "greek": "ΚΑΝΑΝΑΙΟΣ",
         "english": [
             "ZEALOT"
+        ]
+    },
+    {
+        "greek": "ΚΑΝΑΝΕΙΤΗΝ",
+        "english": [
+            "CANANITE"
         ]
     },
     {
@@ -63637,6 +64019,12 @@
         ]
     },
     {
+        "greek": "ΚΗΔΕΥΣΑΙ",
+        "english": [
+            "BURY"
+        ]
+    },
+    {
         "greek": "ΚΗΝΣΟΝ",
         "english": [
             "TRIBUTE"
@@ -67203,6 +67591,12 @@
         ]
     },
     {
+        "greek": "Λ̅",
+        "english": [
+            "THIRTY"
+        ]
+    },
+    {
         "greek": "ΛΑΒΕ",
         "english": [
             "TAKE"
@@ -67218,6 +67612,13 @@
             "TO TAKE",
             "TO TAKE UP",
             "WILL RECEIVE"
+        ]
+    },
+    {
+        "greek": "ΛΑΒΕΤΑΙ",
+        "english": [
+            "RECEIVE",
+            "TAKE"
         ]
     },
     {
@@ -68075,6 +68476,12 @@
         ]
     },
     {
+        "greek": "ΛΕΒΒΑΙΟΝ",
+        "english": [
+            "LEBBEUS"
+        ]
+    },
+    {
         "greek": "ΛΕΓΕ",
         "english": [
             "TELL"
@@ -68562,6 +68969,12 @@
         "greek": "ΛΕΛΑΤΟΜΗΜΕΝΟΝ",
         "english": [
             "CUT"
+        ]
+    },
+    {
+        "greek": "ΛΕΛΑΨ",
+        "english": [
+            "A STORM"
         ]
     },
     {
@@ -70038,6 +70451,31 @@
         "greek": "ΛΩΤ",
         "english": [
             "LOT"
+        ]
+    },
+    {
+        "greek": "Μ̅",
+        "english": [
+            "FORTY"
+        ]
+    },
+    {
+        "greek": "Μ̅Η̅Ρ̅",
+        "english": [
+            "A MOTHER",
+            "MOTHER"
+        ]
+    },
+    {
+        "greek": "Μ̅Ρ̅Α̅",
+        "english": [
+            "MOTHER"
+        ]
+    },
+    {
+        "greek": "Μ̅Ρ̅Ι̅",
+        "english": [
+            "MOTHER"
         ]
     },
     {
@@ -73221,6 +73659,12 @@
         ]
     },
     {
+        "greek": "ΜΕΤΡΙΤΑΙ",
+        "english": [
+            "YOU MEASURE"
+        ]
+    },
+    {
         "greek": "ΜΕΤΡΙΩΣ",
         "english": [
             "A LITTLE"
@@ -74577,6 +75021,12 @@
         ]
     },
     {
+        "greek": "ΜΥΡΙΣΕ",
+        "english": [
+            "TO ANOINT"
+        ]
+    },
+    {
         "greek": "ΜΥΡΙΩΝ",
         "english": [
             "TEN THOUSAND"
@@ -74791,6 +75241,12 @@
         "greek": "ΜΩΥΣΗΣ",
         "english": [
             "MOSES"
+        ]
+    },
+    {
+        "greek": "Ν̅",
+        "english": [
+            "FIFTY"
         ]
     },
     {
@@ -76243,6 +76699,12 @@
         ]
     },
     {
+        "greek": "Ξ̅",
+        "english": [
+            "SIXTY"
+        ]
+    },
+    {
         "greek": "ΞΕΝΑΙΣ",
         "english": [
             "STRANGE"
@@ -76451,6 +76913,39 @@
             "WHICH",
             "WHO",
             "WHOM"
+        ]
+    },
+    {
+        "greek": "Ο̅Υ̅Ν̅Ο̅Ι̅Σ̅",
+        "english": [
+            "HEAVENS"
+        ]
+    },
+    {
+        "greek": "Ο̅Υ̅Ν̅Ο̅Ν̅",
+        "english": [
+            "HEAVEN",
+            "SKY"
+        ]
+    },
+    {
+        "greek": "Ο̅Υ̅Ν̅Ο̅Υ̅",
+        "english": [
+            "AIR",
+            "HEAVEN",
+            "HEAVENS"
+        ]
+    },
+    {
+        "greek": "Ο̅Υ̅Ν̅Ο̅Υ̅Σ̅",
+        "english": [
+            "HEAVENS"
+        ]
+    },
+    {
+        "greek": "Ο̅Υ̅Ν̅Ω̅",
+        "english": [
+            "HEAVEN"
         ]
     },
     {
@@ -77785,6 +78280,12 @@
         ]
     },
     {
+        "greek": "ΟΜΝΥΝΑΙ",
+        "english": [
+            "TO SWEAR"
+        ]
+    },
+    {
         "greek": "ΟΜΝΥΟΥΣΙΝ",
         "english": [
             "SWEAR"
@@ -78262,6 +78763,12 @@
         "greek": "ΟΝΟΥ",
         "english": [
             "A DONKEY"
+        ]
+    },
+    {
+        "greek": "ΟΝΠΕΡ",
+        "english": [
+            "WHOM INDEED"
         ]
     },
     {
@@ -79979,6 +80486,13 @@
         ]
     },
     {
+        "greek": "ΟΨΕΣΘΑΙ",
+        "english": [
+            "WILL YOU SEE",
+            "YOU WILL SEE"
+        ]
+    },
+    {
         "greek": "ΟΨΕΣΘΕ",
         "english": [
             "WILL YOU SEE",
@@ -80073,6 +80587,75 @@
         "greek": "ΟΨΩΝΙΟΝ",
         "english": [
             "SUPPORT"
+        ]
+    },
+    {
+        "greek": "Π̅Η̅Ρ̅",
+        "english": [
+            "A FATHER",
+            "FATHER"
+        ]
+    },
+    {
+        "greek": "Π̅Ν̅Α̅",
+        "english": [
+            "A SPIRIT",
+            "BREATH",
+            "SPIRIT",
+            "WIND"
+        ]
+    },
+    {
+        "greek": "Π̅Ν̅Α̅Σ̅Ι̅",
+        "english": [
+            "SPIRITS"
+        ]
+    },
+    {
+        "greek": "Π̅Ν̅Α̅Τ̅Α̅",
+        "english": [
+            "SPIRITS"
+        ]
+    },
+    {
+        "greek": "Π̅Ν̅Ε̅Υ̅Ν̅Α̅",
+        "english": [
+            "SPIRITS"
+        ]
+    },
+    {
+        "greek": "Π̅Ν̅Ι̅",
+        "english": [
+            "A SPIRIT",
+            "BREATH",
+            "SPIRIT"
+        ]
+    },
+    {
+        "greek": "Π̅Ν̅Ω̅Ν̅",
+        "english": [
+            "SPIRITS",
+            "SPIRITUAL GIFTS"
+        ]
+    },
+    {
+        "greek": "Π̅Ρ̅Α̅",
+        "english": [
+            "A FATHER",
+            "FATHER"
+        ]
+    },
+    {
+        "greek": "Π̅Ρ̅Ι̅",
+        "english": [
+            "A FATHER",
+            "FATHER"
+        ]
+    },
+    {
+        "greek": "Π̅Ρ̅Σ̅",
+        "english": [
+            "FATHER"
         ]
     },
     {
@@ -91993,6 +92576,12 @@
         ]
     },
     {
+        "greek": "ΠΡΟΣΕΓΓΙΣΑΙ",
+        "english": [
+            "TO COME NEAR"
+        ]
+    },
+    {
         "greek": "ΠΡΟΣΕΔΕΞΑΣΘΕ",
         "english": [
             "YOU ACCEPTED"
@@ -92163,6 +92752,12 @@
             "HAVING COME UP",
             "HAVING GONE",
             "HAVING GONE FORWARD"
+        ]
+    },
+    {
+        "greek": "ΠΡΟΣΕΛΟΓΙΖΟΝΤΟ",
+        "english": [
+            "THEY WERE RECKONING"
         ]
     },
     {
@@ -94497,6 +95092,14 @@
         ]
     },
     {
+        "greek": "Ρ̅",
+        "english": [
+            "A HUNDRED",
+            "HUNDRED",
+            "ONE HUNDRED"
+        ]
+    },
+    {
         "greek": "ΡΑΑΒ",
         "english": [
             "RAHAB"
@@ -94618,6 +95221,12 @@
         "greek": "ΡΑΝΤΙΣΜΟΥ",
         "english": [
             "SPRINKLING"
+        ]
+    },
+    {
+        "greek": "ΡΑΝΤΙΣΩΝΤΕ",
+        "english": [
+            "THEY SPRINKLE"
         ]
     },
     {
@@ -95116,6 +95725,60 @@
         "greek": "ΡΩΜΗΣ",
         "english": [
             "ROME"
+        ]
+    },
+    {
+        "greek": "Σ̅",
+        "english": [
+            "AFTER",
+            "AT",
+            "BY",
+            "FROM",
+            "FROM AMONG",
+            "OF",
+            "ON",
+            "OUT FROM",
+            "OUT OF",
+            "SIX"
+        ]
+    },
+    {
+        "greek": "Σ̅Τ̅Ν̅",
+        "english": [
+            "CRUCIFY"
+        ]
+    },
+    {
+        "greek": "Σ̅Τ̅Ρ̅Θ̅Η̅",
+        "english": [
+            "BE CRUCIFIED",
+            "CRUCIFIED"
+        ]
+    },
+    {
+        "greek": "Σ̅Τ̅Ρ̅Ν̅",
+        "english": [
+            "CROSS"
+        ]
+    },
+    {
+        "greek": "Σ̅Τ̅Ρ̅Υ̅",
+        "english": [
+            "CROSS",
+            "CRUCIFY"
+        ]
+    },
+    {
+        "greek": "Σ̅⳨̅Υ̅",
+        "english": [
+            "CROSS",
+            "CRUCIFY"
+        ]
+    },
+    {
+        "greek": "Σ̅⳨̅Υ̅Σ̅Ι̅Ν̅",
+        "english": [
+            "THEY CRUCIFY"
         ]
     },
     {
@@ -102434,6 +103097,12 @@
         ]
     },
     {
+        "greek": "Τ̅",
+        "english": [
+            "THREE HUNDRED"
+        ]
+    },
+    {
         "greek": "ΤΑ",
         "english": [
             "BECAUSE",
@@ -105966,6 +106635,33 @@
         ]
     },
     {
+        "greek": "Υ̅Ε̅",
+        "english": [
+            "SON"
+        ]
+    },
+    {
+        "greek": "Υ̅Ν̅",
+        "english": [
+            "A SON",
+            "FOAL",
+            "SON"
+        ]
+    },
+    {
+        "greek": "Υ̅Σ̅",
+        "english": [
+            "A SON",
+            "SON"
+        ]
+    },
+    {
+        "greek": "Υ̅Υ̅",
+        "english": [
+            "SON"
+        ]
+    },
+    {
         "greek": "ΥΑΚΙΝΘΙΝΟΥΣ",
         "english": [
             "HYACINTH"
@@ -108626,6 +109322,12 @@
         ]
     },
     {
+        "greek": "ΦΑΡΕΙΣΕΟΙ",
+        "english": [
+            "PHARISEES"
+        ]
+    },
+    {
         "greek": "ΦΑΡΕΣ",
         "english": [
             "PEREZ"
@@ -110910,6 +111612,33 @@
         "greek": "ΦΩΤΩΝ",
         "english": [
             "LIGHTS"
+        ]
+    },
+    {
+        "greek": "Χ̅Ν̅",
+        "english": [
+            "CHRIST",
+            "CHRIST'S"
+        ]
+    },
+    {
+        "greek": "Χ̅Ρ̅Υ̅",
+        "english": [
+            "CHRIST",
+            "CHRIST'S"
+        ]
+    },
+    {
+        "greek": "Χ̅Σ̅",
+        "english": [
+            "CHRIST"
+        ]
+    },
+    {
+        "greek": "Χ̅Υ̅",
+        "english": [
+            "CHRIST",
+            "CHRIST'S"
         ]
     },
     {
